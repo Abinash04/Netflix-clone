@@ -10,6 +10,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
   const [movies, setMovies] = useState([]);
 
   const [trailerUrl, setTrailerUrl] = useState("");
+
   // React youtube options
   const opts = {
     height: "390",
