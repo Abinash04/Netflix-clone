@@ -1,3 +1,10 @@
+# Netflix-clone Website:
+
+https://netflix-clone-e9014.web.app/
+
+The following project was built with ReactJs as front-end using TMDB API which is used to get the
+movie details and firebase as backend and for deploying and hosting the production build app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
